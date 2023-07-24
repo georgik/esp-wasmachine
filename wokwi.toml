@@ -1,5 +1,5 @@
 [wokwi]
 version = 1
-elf = "build/wasmachine.elf"
-firmware = "build/wasmachine.bin"
+elf = "build/merged-flash.bin"
+firmware = "build/merged-flash.bin"
 
