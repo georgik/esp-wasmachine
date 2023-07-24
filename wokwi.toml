@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+elf = "build/wasmachine.elf"
+firmware = "build/wasmachine.bin"
+
